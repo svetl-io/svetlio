@@ -1,3 +1,5 @@
+![svetlio](https://github.com/svetl-io/svetlio/assets/36776013/c5e428ab-26f8-4455-b6ab-9f21e0ea1aa2)
+
 ### Sofia Traffic Light Optimization (Svetlio)
 
 **Project Overview:**  
