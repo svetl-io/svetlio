@@ -28,5 +28,10 @@ To reduce traffic congestion, lower carbon emissions by prioritizing eco-friendl
 - Real-time Data Processing and Analytics
 - Plugin Development for Google Maps and Waze
 
+
+![diagram](https://github.com/svetl-io/svetlio/assets/36733036/ebadc06b-9f55-4563-a811-b64b08a54970)
+
+
+
 **Looking for Contributors:**  
 We are seeking developers and researchers passionate about smart city solutions and sustainable urban mobility. If you have experience in image processing, data analytics, or app development, join us in making Sofia's roads safer and more efficient.
